@@ -1,4 +1,4 @@
-# nun-gut
+# Audio Analyzer - Nun gut
 
 ### Installation
 
